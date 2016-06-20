@@ -58,6 +58,10 @@ variable "instance_type" {
   default = "t2.medium"
 }
 
-variable "ec2_base_name" {
+variable "tag_base_name" {
+
+}
+
+variable "num_of_ec2_instances" {
 
 }
